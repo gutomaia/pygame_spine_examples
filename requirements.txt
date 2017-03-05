@@ -1,0 +1,5 @@
+pyguts==1.0b14
+spine_python==1.0b9
+pygameui
+pytmx
+pyscroll
